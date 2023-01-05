@@ -1,0 +1,9 @@
+rect 20 20 80 50 True
+tri 80 50 20 35 False
+rect 80 20 115 62 True
+tri 122 27 143 20 True
+tri 122 27 143 34 True
+tri 122 41 143 34 True
+tri 122 41 143 48 True
+tri 122 55 143 48 True
+tri 122 55 143 62 True
